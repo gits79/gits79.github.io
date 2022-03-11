@@ -32,9 +32,19 @@ Hearder
 # 소제목
 ## hello world
 ### 안녕
-*'git add'
--'git commit'
+*'git add'\
+-'git commit'\
 -'git push'
 
 1.목록화
 2.asd
+3.ㅇㄴㅇ
+```c
+#include <stdio.h>
+
+int main(){
+  return 0;
+}
+```
+
+이 편지는 **영국**에서 시작되어
