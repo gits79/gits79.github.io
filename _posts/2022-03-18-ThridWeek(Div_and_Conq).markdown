@@ -48,7 +48,7 @@ if(left < right){
 ```
 
 퀵 정렬의 시간 복잡도
-$$n\log_2 n$$   
+$n\log_2 n$  
 
 3. 선택문제\
 ![imgae](http://dudri63.github.io/image/algo7-1.png)
