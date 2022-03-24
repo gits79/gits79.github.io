@@ -1,5 +1,5 @@
 # 분할 정복 알고리즘
-AS
+
 **분할 정복**이란? \
 \
 주어진 문제의 입력에 대하여 동일한 알고리즘을 적용하여 해를 계산하며, 이들의 해를 취합하여 원래 문제의 해를 얻는다.   
@@ -29,7 +29,7 @@ if(p < q>){
 }
 ```
 
-합병정렬의 시간 복잡도 $$O(nlog n)$$   
+합병정렬의 시간 복잡도 **O(nlog n)**   
 
 
 2. 퀵 정렬 \
@@ -47,8 +47,7 @@ if(left < right){
 }
 ```
 
-퀵 정렬의 시간 복잡도\
-$$O(nlog_2 n) $$
+퀵 정렬의 시간 복잡도:  **O(nlog_2 n)** 
 
 3. 선택문제\
 ![imgae](http://dudri63.github.io/image/algo7-1.png)
@@ -65,7 +64,7 @@ eles if(k=S+1) return A[p]
 eles Selection(A,p+1 right,k-S-1)
 ```
 
-선택 문제의 시간 복잡도$$ O(n)$$   
+선택 문제의 시간 복잡도: **O(n)**   
 
 4. 최근접 점의 쌍 찾기\
 ![imgae](https://t1.daumcdn.net/cfile/tistory/999DA7435ABF302109)
@@ -82,4 +81,4 @@ d = min{dist(CpL),dist(CpR)}
 return (CpL,CpC,CpR 중에서 거리가 가장 짧은 쌍)
 ```
 
-최근접 점의 쌍 찾기 시간 복잡도 O(nlog^2^ n)
+최근접 점의 쌍 찾기 시간 복잡도: **O(nlog^2 n)**
