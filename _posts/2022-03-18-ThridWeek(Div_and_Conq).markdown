@@ -81,4 +81,4 @@ d = min{dist(CpL),dist(CpR)}
 return (CpL,CpC,CpR 중에서 거리가 가장 짧은 쌍)
 ```
 
-최근접 점의 쌍 찾기 시간 복잡도$$ O(nlog^2 n)$$
+최근접 점의 쌍 찾기 시간 복잡도 O(nlog^2^ n)
