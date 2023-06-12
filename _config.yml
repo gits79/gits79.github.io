@@ -106,8 +106,8 @@ analytics:
 author:
   name             : "Kim JiHwan"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "김지환의 블로그 입니다"
+  location         : "seoul"
   email            :
   links:
     - label: "Email"
